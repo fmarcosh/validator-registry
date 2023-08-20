@@ -1,0 +1,11 @@
+{
+  "$schema": "../services.schema.json",
+  "name": "LiveRaveN",
+  "services": [
+    {
+      "title": "LiveRaveN",
+      "description": "Just another validator with good service. Discord: liver23",
+      "url": "https://services.liveraven.net"
+    }
+  ]
+}
